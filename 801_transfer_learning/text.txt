@@ -1,0 +1,3 @@
+transfer learning ile katarakt tespiti ve akciğer çökmesi uygulamaların linkleri:
+https://github.com/MehmetNurKavan/cataract_detection
+https://github.com/MehmetNurKavan/lung_collapse
